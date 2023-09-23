@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3A856B15-271E-4DA1-BD35-6B228F5C50A5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2E29AA8-0885-4D40-841B-B47C5D12E02D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IMDBPhonePe/MovieList/View/Cells/MovieListCell/MovieListTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "loadImage(imageUrl:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C2E29AA8-0885-4D40-841B-B47C5D12E02D - 8daf25f23f4daf5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMDBPhonePe.MovieListTableViewCell.loadImage(imageUrl: Foundation.URL) -&gt; ()"
+                  moduleName = "IMDBPhonePe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ravneetarora/Documents/Preparation/IMDBPhonePe/IMDBPhonePe/MovieList/View/Cells/MovieListCell/MovieListTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "302">
+               </Location>
+               <Location
+                  uuid = "C2E29AA8-0885-4D40-841B-B47C5D12E02D - 158e3fb48483b59a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in IMDBPhonePe.MovieListTableViewCell.loadImage(imageUrl: Foundation.URL) -&gt; ()"
+                  moduleName = "IMDBPhonePe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ravneetarora/Documents/Preparation/IMDBPhonePe/IMDBPhonePe/MovieList/View/Cells/MovieListCell/MovieListTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "197">
+               </Location>
+               <Location
+                  uuid = "C2E29AA8-0885-4D40-841B-B47C5D12E02D - 94c4aaa7bac5f114"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in IMDBPhonePe.MovieListTableViewCell.loadImage(imageUrl: Foundation.URL) -&gt; ()"
+                  moduleName = "IMDBPhonePe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ravneetarora/Documents/Preparation/IMDBPhonePe/IMDBPhonePe/MovieList/View/Cells/MovieListCell/MovieListTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
